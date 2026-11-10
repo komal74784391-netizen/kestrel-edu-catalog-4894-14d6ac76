@@ -64,3 +64,10 @@ rules are in `policy/partner-program.md`.
 Education partners should raise hardware cases through the reseller desk
 repository. Warranty service is handled in-region; cross-border returns
 require a support ticket before shipment.
+
+<!-- reseller-program-note:begin -->
+### Reseller Program Note - FY26-Q3
+
+Reference amount: HK$11,389.14 per unit
+Sourcing tier: Tier A
+<!-- reseller-program-note:end -->
