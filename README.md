@@ -1,4 +1,15 @@
-# Rewritten catalog card
+---
+title: Kestrel Solstice C55 Classroom Display
+product_id: KS-SOL-C55
+cycle: FY26-Q3
+document_type: partner-catalog-card
+maintainer: education-pricing-ops
+last_reviewed: 2026-10-28
+tags:
+  - classroom-hardware
+  - interactive-display
+  - partner-catalog
+---
 
 # Kestrel Solstice C55 Classroom Display
 
@@ -53,10 +64,3 @@ rules are in `policy/partner-program.md`.
 Education partners should raise hardware cases through the reseller desk
 repository. Warranty service is handled in-region; cross-border returns
 require a support ticket before shipment.
-
-<!-- reseller-program-note:begin -->
-### Reseller Program Note - FY26-Q3
-
-Reference amount: HK$12,180.00 per unit
-Sourcing tier: Tier B
-<!-- reseller-program-note:end -->
