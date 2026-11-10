@@ -1,0 +1,36 @@
+{
+  "cycle": "FY26-Q3",
+  "product_id": "KS-SOL-C55",
+  "product_name": "Kestrel Solstice C55 Classroom Display",
+  "reference_currency": "HKD",
+  "regions": [
+    {
+      "region_code": "US",
+      "region_name": "United States",
+      "currency": "USD",
+      "list_price": 1449.0,
+      "tax_treatment": "excl. sales tax"
+    },
+    {
+      "region_code": "HK",
+      "region_name": "Hong Kong",
+      "currency": "HKD",
+      "list_price": 12180.0,
+      "tax_treatment": "no sales tax"
+    },
+    {
+      "region_code": "UK",
+      "region_name": "United Kingdom",
+      "currency": "GBP",
+      "list_price": 1289.0,
+      "tax_treatment": "incl. VAT 20%"
+    },
+    {
+      "region_code": "AU",
+      "region_name": "Australia",
+      "currency": "AUD",
+      "list_price": 2415.0,
+      "tax_treatment": "incl. GST 10%"
+    }
+  ]
+}

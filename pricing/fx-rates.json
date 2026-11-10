@@ -1,0 +1,17 @@
+{
+  "cycle": "FY26-Q3",
+  "reference_currency": "HKD",
+  "effective_from": "2026-10-01",
+  "source": "Kestrel treasury quarterly rate card",
+  "rates": {
+    "USD": 7.86,
+    "HKD": 1.0,
+    "GBP": 10.18,
+    "AUD": 5.14
+  },
+  "internal_references": {
+    "us_state_sales_tax_average_percent": 7.5,
+    "uk_vat_percent": 20,
+    "au_gst_percent": 10
+  }
+}
